@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Sms Sender</string>
+    <string name="title_activity_credit">Credits</string>
+    <string name="title_activity_main">Send your message</string>
+    <string name="title_activity_about">About</string>
+
+    <!--Credits-->
+    <string name="icon_creator">Icon Creator</string>
+    <string name="icon_creator_link">https://www.flaticon.com/authors/vectors-market</string>
+    <string name="gradient_background">Gradient Colors Source</string>
+    <string name="gradient_colors_link">https://uigradients.com/</string>
+    <string name="social_icons">Social Media Icons</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_link">https://www.flaticon.com/authors/pixel-perfect</string>
+    <string name="youtube">Github</string>
+    <string name="youtube_link">https://www.flaticon.com/authors/pixel-perfect</string>
+
+    <!--Intro fragment-->
+    <string name="title_intro">Sms Sender</string>
+    <string name="desc">Welcome! Feel free to make your friends angry with the multiple sms sender!</string>
+
+    <!--Policy fragment-->
+    <string name="title_policy">Policies</string>
+    <string name="policy">"OK you need to know somethings after go to the app.\n 1st. This actual app sends actual messages to number that you specific, with this i mean that you have in mind the conditions.\n 2nd. One of the conditions is that depending from your country, or depending from the company that give you access to network, by sending messages you may be charged by the company.\n 3rd. Ads will display, for that this application need internet connection to display the ads.(Even if you don't have a internet connection the app will work fine)\n 4th. The app will ask you for permission to see your contacts and send sms, so if you don't want it, just click "No", and uninstall the app"</string>
+    <string name="checkbox">Agree the terms referenced above.</string>
+
+    <!--Start Fragment-->
+    <string name="title_start">"Let's gooooo!"</string>
+    <string name="start_button">Start</string>
+    <string name="toast_message">Check that you agree in policies.</string>
+
+    <!--Main activty-->
+    <string name="dialog_title">Are you sure?</string>
+    <string name="dialog_message_first_part">Are you sure that you want to send </string>
+    <string name="dialog_message_second_part"> to </string>
+    <string name="dialog_message_third_part"> "?"</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="message_hint">Message</string>
+    <string name="numberSms_hint">Number of SMS to send</string>
+    <string name="send_button">Send</string>
+    <string name="toast_grant_contact">"Grant permission to get contacts"</string>
+    <string name="toast_grant_sms">"Grant permission to send sms"</string>
+    <string name="toast_need_info">Fill all the fields!</string>
+    <string name="toast_sended">All messages sended!</string>
+
+    <!--About activity-->
+    <string name="made_by_text">" Hello! This app is made by me! :)\n All my social medias can be found bellow, so just click the icon to be redirected and then you know who am i!"</string>
+</resources>

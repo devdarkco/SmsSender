@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Sms Sender</string>
+    <string name="title_activity_credit">Creditos</string>
+    <string name="title_activity_main">Envia a tua mensagem!</string>
+    <string name="title_activity_about">Sobre</string>
+
+    <!--Credits-->
+    <string name="icon_creator">Criador do icone</string>
+    <string name="icon_creator_link">https://www.flaticon.com/authors/vectors-market</string>
+    <string name="gradient_background">Referencia das cores de graduação</string>
+    <string name="gradient_colors_link">https://uigradients.com/</string>
+    <string name="social_icons">Icones das redes sociais</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_link">https://materialdesignicons.com/icon/twitter-box</string>
+    <string name="youtube">Github</string>
+    <string name="youtube_link">https://www.flaticon.com/authors/pixel-perfect</string>
+
+
+    <!--Intro fragment-->
+    <string name="title_intro">Sms Sender</string>
+    <string name="desc">Bem-vindo! Se sinta à vontade para deixar seus amigos irritados com as multiplas mensagens que vai receber!</string>
+
+    <!--Policy fragment-->
+    <string name="title_policy">Políticas</string>
+    <string name="policy">OK, você precisa saber algumas coisas antes de ir para o aplicativo.\n 1º Este aplicativo envia mensagens para o número que você específicou, com isso, quero dizer que você tem em mente a seguinte condição.\n 2º A condição é que dependendo do seu país, ou dependendo da empresa que lhe dá acesso à rede, enviando mensagens você pode ser cobrado pela empresa.\n 3º. Anuncios são exibidos, para isso a aplicação requer conexão à internet(Mesmo sem uma conexão a aplicação funcíonara).\n 4th. O aplicativo solicitará permissão para ver seus contatos e enviar SMS, portanto, se você não quiser, basta clicar em *Não* e desinstale o aplicativo.</string>
+    <string name="checkbox">Concordar com os termos acima referenciados.</string>
+
+    <!--Start Fragment-->
+    <string name="title_start">"Vamos lá!"</string>
+    <string name="start_button">Começar</string>
+    <string name="toast_message">Necessitas de marcar a caixa para concordar com os termos.</string>
+
+    <!--Main Activity-->
+    <string name="dialog_title">Tens a certeza?</string>
+    <string name="dialog_message_first_part">Tens a certeza que queres mandar </string>
+    <string name="dialog_message_second_part"> para </string>
+    <string name="dialog_message_third_part"> "?"</string>
+    <string name="dialog_yes">Sim</string>
+    <string name="dialog_no">Não</string>
+    <string name="phone_number_hint">Número de celular</string>
+    <string name="message_hint">Messagem</string>
+    <string name="numberSms_hint">Número de mensagens a enviar</string>
+    <string name="send_button">Enviar</string>
+    <string name="toast_grant_contact">"Necessário permissão para ler contatos."</string>
+    <string name="toast_grant_sms">"Necessário permissão para enviar sms."</string>
+    <string name="toast_need_info">Preenche todos os campos!</string>
+
+    <!--About activity-->
+    <string name="made_by_text">" Ola! Esta aplicação é feita por mim! :)\n Todas as minhas redes socias estão presentes em baixo, apenas carrega nos icones para ser redirecionado e passas a saber quem sou!"</string>
+    <string name="toast_sended">Todas as mensagens foram enviadas!</string>
+</resources>
